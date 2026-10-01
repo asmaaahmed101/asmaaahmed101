@@ -1,16 +1,14 @@
 # Hi, I'm Asmaa Ahmed 👋
 
-### AI Automation Specialist | HR & Business Process Automation
+### HR Professional | AI Automation Specialist | Business Process Automation
 
-I’m an HR and business process professional with 10+ years of experience across HR strategy, organizational development, recruitment, HR operations, performance management, and digital transformation.
+I’m an HR and business process professional with 10+ years of experience across HR strategy, organizational development, recruitment, HR operations, performance management, process improvement, and digital transformation.
 
 I’m currently specializing in **AI Automation and Workflow Automation**, with a focus on **n8n, AI-powered workflows, and practical business process automation**.
 
-My approach is simple:
-
 > **I don't automate a process before understanding it.**
 
-I first understand how the process works, identify repetitive steps and bottlenecks, then design practical workflows that improve efficiency and reduce manual work.
+I first understand how the process works, identify repetitive steps and bottlenecks, and then design practical workflows that improve efficiency and reduce manual work.
 
 ---
 
@@ -22,26 +20,29 @@ I first understand how the process works, identify repetitive steps and bottlene
 - 📋 Recruitment & Employee Onboarding Automation
 - 🔗 Workflow Integrations
 - 🧩 Process Analysis & Improvement
-- 💡 AI-powered business solutions
+- 💡 AI-Powered Business Solutions
 
 ---
 
 ## Featured Automation Projects
 
 ### 01 — AI Recruitment Automation
+
 An AI-powered recruitment workflow designed to streamline the process from application submission through candidate screening, HR review, interview scheduling, and notifications.
 
-**Tools:** n8n · AI · OpenAI · Gmail · Google Calendar
+**Tools:** n8n · OpenAI · Gmail · Google Calendar
 
 ### 02 — AI Employee Onboarding Automation
-A structured workflow for automating employee onboarding activities including information collection, document processing, notifications, task creation, and follow-up.
 
-**Tools:** n8n · AI · OpenAI · Google Drive · Slack
+A structured workflow designed to automate employee onboarding activities including information collection, document processing, notifications, task creation, and follow-up.
+
+**Tools:** n8n · OpenAI · Google Drive · Slack
 
 ### 03 — AI Customer Inquiry & Lead Management Automation
-An AI-powered workflow for collecting inquiries, classifying information, qualifying leads, updating records, and notifying the appropriate team.
 
-**Tools:** n8n · AI · Google Sheets · Gmail
+An AI-powered workflow designed to collect inquiries, classify information, support lead qualification, update records, and notify the appropriate team.
+
+**Tools:** n8n · OpenAI · Google Sheets · Gmail
 
 ---
 
@@ -69,7 +70,7 @@ An AI-powered workflow for collecting inquiries, classifying information, qualif
 - Workflow Design
 - Process Automation
 - Prompt Engineering
-- AI-powered Process Improvement
+- AI-Powered Process Improvement
 
 ---
 
@@ -90,4 +91,4 @@ An AI-powered workflow for collecting inquiries, classifying information, qualif
 
 💼 **LinkedIn:** https://www.linkedin.com/in/asmaa-ahmed-m-/
 
-📍 Based in Egypt · Available worldwide
+📍 Egypt · Available worldwide
